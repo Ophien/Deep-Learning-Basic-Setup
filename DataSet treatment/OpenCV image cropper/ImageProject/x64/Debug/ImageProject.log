@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\draconian\documents\visual studio 2015\projects\imageproject\imageproject\source.cpp(255): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+  c:\users\draconian\documents\visual studio 2015\projects\imageproject\imageproject\source.cpp(255): note: consider using '%zi' in the format string
+c:\users\draconian\documents\visual studio 2015\projects\imageproject\imageproject\source.cpp(284): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\draconian\documents\visual studio 2015\projects\imageproject\imageproject\source.cpp(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  ImageProject.vcxproj -> C:\Users\Draconian\Documents\Visual Studio 2015\Projects\ImageProject\x64\Debug\ImageProject.exe
+  ImageProject.vcxproj -> C:\Users\Draconian\Documents\Visual Studio 2015\Projects\ImageProject\x64\Debug\ImageProject.pdb (Full PDB)
